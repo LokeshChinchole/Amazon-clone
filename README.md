@@ -1,0 +1,1 @@
+An HTML and CSS implementation of a simplified version of Amazon's user interface. This project replicates key features such as product listings, navigation bars, and responsive design, providing a realistic shopping experience.
